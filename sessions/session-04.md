@@ -24,10 +24,6 @@
 - [**Can Balance**](../exercises/can-balance/)
 - [**Linear in**](../exercises/linear-in/)
 
-## Kahoot
-
-[https://create.kahoot.it/share/gym-session-02/13cd003e-e988-4061-b247-b5b3c542cd98](https://create.kahoot.it/share/gym-session-02/13cd003e-e988-4061-b247-b5b3c542cd98)
-
 ## Dejanos tu feedback
 
 [https://forms.gle/fahX7osKywgBJFWq6](https://forms.gle/fahX7osKywgBJFWq6)
