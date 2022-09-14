@@ -1,28 +1,12 @@
 # Sesión 8 - 08/09/2022
 
-## Ejercicios
+## Sesión de entrenamiento de entrevista técnicas
 
-### HTML/CSS
+### Ejercicios
 
-#### Newbie
+- [**sum-between**](https://curriculum.laboratoria.la/es/topics/javascript/04-arrays/06-practice/12-compute-sum-between)
+- [**count-vowels**](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/06-code-challenges/03-count-vowels)
 
-- [**CSS Junction**](../exercises/css-junction/README.md)
+## Dejanos tu feedback
 
-#### Intermediate
-
-- [**CSS Piano**](../exercises/css-piano/README.md)
-- [**CSS Ripples**](../exercises/css-ripples/README.md)
-
-### JavaScript
-
-#### Newbie
-
-- [**Counting sheep**](../exercises/counting-sheep/README.md)
-
-#### Beginner
-
-- [**Odd or Even**](../exercises/odd-or-even/README.md)
-
-#### Intermediate
-
-- [**Let's Recycle**](../exercises/lets-recycle/README.md)
+[https://forms.gle/fahX7osKywgBJFWq6](https://forms.gle/fahX7osKywgBJFWq6)
