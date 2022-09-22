@@ -9,7 +9,7 @@ permita mejorar aprovechar mejor el gimnasio.
 
 ## Dinámica
 
-### Preguntas para reflexionar - 30 minutos
+### Preguntas para reflexionar - 15 minutos
 
 Vamos a responder cada una de las preguntas. Luego algunas voluntarias
  abren micro para compartir.
@@ -25,7 +25,7 @@ practicar ejercicios? ¿incluyes una tarea para esto en tu planificación?
 * ¿Has participado activamente en las sesiones del gimnasio? ¿cómo
 podrías participar más?
 
-### Retrospectiva - 30 minutos
+### Retrospectiva - 15 minutos
 
 ¿Qué hicimos bien? ¿Qué no hicimos bien? ¿Qué podríamos comenzar a hacer o
 seguir haciendo (accionables)? sobre 2 puntos grandes:
@@ -37,7 +37,11 @@ seguir haciendo (accionables)? sobre 2 puntos grandes:
 
 Para la retrospectiva podemos usar este [figma](https://www.figma.com/file/802xoBumuqK2VrkacSjpB1/Retro-Gimnasio-BOG005?node-id=0%3A1)
 
-### Compartir reflexiones - 20 minutos
+### Compartir reflexiones - 15 minutos
 
 En la sala general compartimos de forma voluntaria las reflexiones
 más destacadas y/o planes de acción.
+
+### Hacking
+
+Hacking en vivo de retos pendientes de sesiones anteriores.
