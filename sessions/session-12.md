@@ -28,6 +28,10 @@
 
 - [Star Lovers Challenge](../exercises/star-lovers-challenge/README.md)
 
+### Advanced
+
+- [Number of Islands](../exercises/number-of-islands/README.md)
+
 ## Dejanos tu feedback
 
 [https://forms.gle/fahX7osKywgBJFWq6](https://forms.gle/fahX7osKywgBJFWq6)
