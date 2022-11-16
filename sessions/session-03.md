@@ -3,6 +3,7 @@
 ## Ejercicios
 
 ### Beginner
+
 - [**Same on both ends**](../exercises/same-on-both-ends/README.md)
 - [**Secret Society**](../exercises/secret-society/README.md)
 - [**Sort Array By Parity**](../exercises/sort-array-by-parity/)

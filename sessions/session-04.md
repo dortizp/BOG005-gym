@@ -3,8 +3,9 @@
 ## Ejercicios
 
 ### Beginner
+
 - [**Sort Array By Parity**](../exercises/sort-array-by-parity/)
-- [**biggerTwo**](../exercises/bigger-two/README.md )
+- [**biggerTwo**](../exercises/bigger-two/README.md)
 - [**redTicket**](../exercises/red-ticket/README.md)
 - [**middleThree**](../exercises/middle-three/README.md)
 
